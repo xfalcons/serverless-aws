@@ -2,6 +2,7 @@
 .venv/
 .idea/
 *.swp
+setAccountNumber.sh
 
 instance/
 env/nginx/ssl/

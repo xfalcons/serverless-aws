@@ -3,8 +3,8 @@
         "project_name": "linebot-flask-echo"
         "app_function": "app_with_handler.app", 
         "environment_variables": {
-            "LINE_CHANNEL_SECRET": "f1cd084fb5a28bd2716c63ca7225dbf9",
-            "LINE_CHANNEL_ACCESS_TOKEN": "4UBQVj3OSwDaWRsanONIURNhUni9/MJKokJ36hrM5v4EE6VVPvWU13txx+5mWSPIX0rNWP9vBrZ8HRZR+zcaRkJPOKKz/JZ+gUS0IF+b8/sTz4CHtg8lcb+9bImyK1yq2HTuzDMfWOWn3uGiauvP1QdB04t89/1O/w1cDnyilFU="
+            "LINE_CHANNEL_SECRET": "f1cd084fb5a",
+            "LINE_CHANNEL_ACCESS_TOKEN": "4UBQVj3OSwDa"
         },
         "s3_bucket": "zappa-agz72odlv"
     }
