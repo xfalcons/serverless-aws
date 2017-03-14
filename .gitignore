@@ -1,0 +1,8 @@
+*.pyc
+.venv/
+.idea/
+*.swp
+
+instance/
+env/nginx/ssl/
+build_info.json
