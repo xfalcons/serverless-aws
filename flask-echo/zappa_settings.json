@@ -1,11 +1,8 @@
 {
     "dev": {
-        "project_name": "linebot-flask-echo"
+        "project_name": "linebot-flask-echo",
         "app_function": "app_with_handler.app", 
-        "environment_variables": {
-            "LINE_CHANNEL_SECRET": "f1cd084fb5a",
-            "LINE_CHANNEL_ACCESS_TOKEN": "4UBQVj3OSwDa"
-        },
-        "s3_bucket": "zappa-agz72odlv"
+        "remote_env": "s3://line-channel-info/line_channel_info.json",
+        "s3_bucket": "zappa-k3gsvrqx4"
     }
 }
