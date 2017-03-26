@@ -2,8 +2,10 @@
 .venv/
 .idea/
 *.swp
+**/.serverless/
 setAccountNumber.sh
 
 instance/
 env/nginx/ssl/
 build_info.json
+line_channel_info.json
